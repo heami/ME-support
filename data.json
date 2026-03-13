@@ -19,5 +19,12 @@
     "doi_type": "id",
     "2026_vol": 20,
     "article_info_format": "Nutr Res Pract. {year};{volume}:{id}."
+  },
+  "IN": {
+    "has_doi_forthcoming": false,
+    "doi_prefix": "10.4110/in",
+    "doi_type": "id",
+    "2026_vol": 26,
+    "article_info_format": "Immune Netw. {year};{volume}:{id}."
   }
 }
