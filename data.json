@@ -1,0 +1,23 @@
+{
+  "JGO": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.3802/jgo",
+    "doi_type": "id",
+    "2026_vol": 37,  
+    "article_info_format": "J Gynecol Oncol. {year};{volume}:{id}"
+  },
+  "KCJ": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.4070/kcj",
+    "doi_type": "paper_number",
+    "2026_vol": 56,
+    "article_info_format": "Korean Circ J. {year};{volume}:{id}"
+  },
+  "NRP": {
+    "has_doi_forthcoming": false,
+    "doi_prefix": "10.4162/nrp",
+    "doi_type": "id",
+    "2026_vol": 20,
+    "article_info_format": "Nutr Res Pract. {year};{volume}:{id}."
+  }
+}
