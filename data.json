@@ -6,6 +6,13 @@
     "2026_vol": 37,  
     "article_info_format": "J Gynecol Oncol. {year};{volume}:{id}"
   },
+  "IJA": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.18501/ija",
+    "doi_type": "id",
+    "2026_vol": 27,
+    "article_info_format": "Int J Arrhythm. {year};{volume}:{id}"
+  },
   "KCJ": {
     "has_doi_forthcoming": true,
     "doi_prefix": "10.4070/kcj",
