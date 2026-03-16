@@ -40,5 +40,12 @@
     "doi_type": "id",
     "2026_vol": 26,
     "article_info_format": "Immune Netw. {year};{volume}:{id}."
-  }
+  },
+  "AAIR": {
+    "has_doi_forthcoming": false,
+    "doi_prefix": "10.4168/aair",
+    "doi_type": "id",
+    "2026_vol": 18,
+    "article_info_format": "Allergy Asthma Immunol Res. {year};{volume}:{id}."
+  },
 }
