@@ -1,4 +1,5 @@
 {
+  "_comment_doi_id": "이 섹션은 doi 구조가 id 형식이고, Forthcoming 때 deposit을 하는 학술지들입니다.",
   "JGO": {
     "has_doi_forthcoming": true,
     "doi_prefix": "10.3802/jgo",
@@ -13,6 +14,14 @@
     "2026_vol": 27,
     "article_info_format": "Int J Arrhythm. {year};{volume}:{id}"
   },
+  "CH": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.5646/ch",
+    "doi_type": "id",
+    "2026_vol": 32,
+    "article_info_format": "Clin Hypertens. {year};{volume}:{id}"
+  },
+  "_comment_doi_paper_number": "이 섹션은 doi 구조가 paper_number 형식이고, Forthcoming 때 deposit을 하는 학술지들입니다.",
   "KCJ": {
     "has_doi_forthcoming": true,
     "doi_prefix": "10.4070/kcj",
@@ -41,6 +50,7 @@
     "2026_vol": 55,
     "article_info_format": "J Periodontal Implant Sci. {year};{volume}:{id}"
   },
+  "_comment_id": "이 섹션은 doi 구조가 id 형식이고, Forthcoming 때 deposit을 하지 않는 학술지들입니다.",
   "NRP": {
     "has_doi_forthcoming": false,
     "doi_prefix": "10.4162/nrp",
