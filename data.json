@@ -27,6 +27,13 @@
     "2026_vol": 5,
     "article_info_format": "J Cardiovasc Interv. {year};{volume}:{id}"
   },
+  "AD": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.5021/ad",
+    "doi_type": "paper_number",
+    "2026_vol": 38,
+    "article_info_format": "Ann Dermatol. {year};{volume}:{id}"
+  },
   "NRP": {
     "has_doi_forthcoming": false,
     "doi_prefix": "10.4162/nrp",
