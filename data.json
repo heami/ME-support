@@ -34,6 +34,13 @@
     "2026_vol": 38,
     "article_info_format": "Ann Dermatol. {year};{volume}:{id}"
   },
+  "JPIS": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.5051/jpis",
+    "doi_type": "paper_number",
+    "2026_vol": 55,
+    "article_info_format": "J Periodontal Implant Sci. {year};{volume}:{id}"
+  },
   "NRP": {
     "has_doi_forthcoming": false,
     "doi_prefix": "10.4162/nrp",
