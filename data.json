@@ -1,4 +1,5 @@
 {
+  "JKMS": "JKMS는 별도의 처리과정으로 진행됩니다.",
   "_comment_doi_id": "이 섹션은 doi 구조가 id 형식이고, Forthcoming 때 deposit을 하는 학술지들입니다.",
   "JGO": {
     "has_doi_forthcoming": true,
