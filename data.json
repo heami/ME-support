@@ -1,6 +1,12 @@
 {
-  "JKMS": "JKMS는 별도의 처리과정으로 진행됩니다.",
   "_comment_doi_id": "이 섹션은 doi 구조가 id 형식이고, Forthcoming 때 deposit을 하는 학술지들입니다.",
+  "JKMS": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.3346/jkms",
+    "doi_type": "id",
+    "2026_vol": 41,  
+    "article_info_format": "J Korean Med Sci. {year};{volume}:{id}"
+  },
   "JGO": {
     "has_doi_forthcoming": true,
     "doi_prefix": "10.3802/jgo",
