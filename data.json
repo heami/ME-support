@@ -72,6 +72,13 @@
     "article_info_format": "J Periodontal Implant Sci. {year};{volume}:{id}"
   },
   "_comment_id": "이 섹션은 doi 구조가 id 형식이고, Forthcoming 때 deposit을 하지 않는 학술지들입니다.",
+  "JCD": {
+    "has_doi_forthcoming": false,
+    "doi_prefix": "10.58558/jcd",
+    "doi_type": "id",
+    "2026_vol": 5,
+    "article_info_format": "Journal of Cognitive Intervention and Digital Health. {year};{volume}:{id}."
+  },
   "NRP": {
     "has_doi_forthcoming": false,
     "doi_prefix": "10.4162/nrp",
