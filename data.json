@@ -70,6 +70,13 @@
     "2026_vol": 34,
     "article_info_format": "Transl Clin Pharmacol. {year};{volume}:{id}"
   },
+  "CEVR": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.7774/cevr",
+    "doi_type": "id",
+    "2026_vol": 15,
+    "article_info_format": "Clin Exp Vaccine Res. {year};{volume}:{id}"
+  },
   "_comment_doi_paper_number": "이 섹션은 doi 구조가 paper_number 형식이고, Forthcoming 때 deposit을 하는 학술지들입니다.",
   "KCJ": {
     "has_doi_forthcoming": true,
