@@ -121,6 +121,13 @@
     "2026_vol": 20,
     "article_info_format": "Nutr Res Pract. {year};{volume}:{id}."
   },
+  "JNH": {
+    "has_doi_forthcoming": false,
+    "doi_prefix": "10.4163/jnh",
+    "doi_type": "id",
+    "2026_vol": 59,
+    "article_info_format": "J Nutr Health. {year};{volume}:{id}."
+  },
   "IN": {
     "has_doi_forthcoming": false,
     "doi_prefix": "10.4110/in",
