@@ -71,6 +71,13 @@
     "2026_vol": 5,
     "article_info_format": "J Cardiovasc Interv. {year};{volume}:{id}"
   },
+  "JBC": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.4048/jbc",
+    "doi_type": "paper_number",
+    "2026_vol": 29,
+    "article_info_format": "J Breast Cancer. {year};{volume}:{id}"
+  },
   "AD": {
     "has_doi_forthcoming": true,
     "doi_prefix": "10.5021/ad",
