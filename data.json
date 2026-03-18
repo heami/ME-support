@@ -135,6 +135,20 @@
     "2026_vol": 25,
     "article_info_format": "Dement Neurocogn Disord. {year};{volume}:{id}."
   },
+  "JLA": {
+    "has_doi_forthcoming": false,
+    "doi_prefix": "10.12997/jla",
+    "doi_type": "id",
+    "2026_vol": 15,
+    "article_info_format": "J Lipid Atheroscler. {year};{volume}:{id}."
+  },
+  "JES": {
+    "has_doi_forthcoming": false,
+    "doi_prefix": "10.16956/jes",
+    "doi_type": "id",
+    "2026_vol": 26,
+    "article_info_format": "J Endocr Surg. {year};{volume}:{id}."
+  },
   "NRP": {
     "has_doi_forthcoming": false,
     "doi_prefix": "10.4162/nrp",
