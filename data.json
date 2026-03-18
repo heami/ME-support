@@ -56,6 +56,13 @@
     "2026_vol": 22,
     "article_info_format": "Korean J Neurotrauma. {year};{volume}:{id}"
   },
+  "JGC": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.5230/jgc",
+    "doi_type": "id",
+    "2026_vol": 26,
+    "article_info_format": "J Gastric Cancer. {year};{volume}:{id}"
+  },
   "_comment_doi_paper_number": "이 섹션은 doi 구조가 paper_number 형식이고, Forthcoming 때 deposit을 하는 학술지들입니다.",
   "KCJ": {
     "has_doi_forthcoming": true,
