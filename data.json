@@ -85,6 +85,13 @@
     "2026_vol": 29,
     "article_info_format": "J Breast Cancer. {year};{volume}:{id}"
   },
+  "JVS": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.4142/jvs",
+    "doi_type": "paper_number",
+    "2026_vol": 27,
+    "article_info_format": "J Vet Sci. {year};{volume}:{id}"
+  },
   "AD": {
     "has_doi_forthcoming": true,
     "doi_prefix": "10.5021/ad",
