@@ -121,6 +121,13 @@
     "2026_vol": 5,
     "article_info_format": "Journal of Cognitive Intervention and Digital Health. {year};{volume}:{id}."
   },
+  "DND": {
+    "has_doi_forthcoming": false,
+    "doi_prefix": "10.12779/dnd",
+    "doi_type": "id",
+    "2026_vol": 25,
+    "article_info_format": "Dement Neurocogn Disord. {year};{volume}:{id}."
+  },
   "NRP": {
     "has_doi_forthcoming": false,
     "doi_prefix": "10.4162/nrp",
