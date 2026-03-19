@@ -77,6 +77,13 @@
     "2026_vol": 15,
     "article_info_format": "Clin Exp Vaccine Res. {year};{volume}:{id}"
   },
+  "BN": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.12786/bn",
+    "doi_type": "id",
+    "2026_vol": 19,
+    "article_info_format": "Brain Neurorehabil. {year};{volume}:{id}."
+  },
   "_comment_doi_paper_number": "이 섹션은 doi 구조가 paper_number 형식이고, Forthcoming 때 deposit을 하는 학술지들입니다.",
   "KCJ": {
     "has_doi_forthcoming": true,
@@ -176,12 +183,5 @@
     "doi_type": "id",
     "2026_vol": 18,
     "article_info_format": "Allergy Asthma Immunol Res. {year};{volume}:{id}."
-  }
-  "BN": {
-    "has_doi_forthcoming": false,
-    "doi_prefix": "10.12786/bn",
-    "doi_type": "id",
-    "2026_vol": 19,
-    "article_info_format": "Brain Neurorehabil. {year};{volume}:{id}."
   }
 }
