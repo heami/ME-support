@@ -177,4 +177,11 @@
     "2026_vol": 18,
     "article_info_format": "Allergy Asthma Immunol Res. {year};{volume}:{id}."
   }
+  "BN": {
+    "has_doi_forthcoming": false,
+    "doi_prefix": "10.12786/bn",
+    "doi_type": "id",
+    "2026_vol": 19,
+    "article_info_format": "Brain Neurorehabil. {year};{volume}:{id}."
+  }
 }
