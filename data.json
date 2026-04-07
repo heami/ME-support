@@ -113,6 +113,13 @@
     "2026_vol": 29,
     "article_info_format": "J Breast Cancer. {year};{volume}:{id}"
   },
+  "IJHF": {
+    "has_doi_forthcoming": true,
+    "doi_prefix": "10.36628/ijhf",
+    "doi_type": "paper_number",
+    "2026_vol": 8,
+    "article_info_format": "Int J Heart Fail. {year};{volume}:{id}"
+  },
   "JVS": {
     "has_doi_forthcoming": true,
     "doi_prefix": "10.4142/jvs",
